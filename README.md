@@ -1,8 +1,11 @@
 ### Hey! Nice to see you.
-***
-
-Welcome to my page  
-I'm [Marino](https://Marino.me/)  
+***  
+<!-- dynamic typing effect 动态打字效果 -->
+<div>
+  <a href="https://blog.sunguoqi.com/">
+    <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=%22Hello%2C%20World%22; %22Welcome to my page, I'm Marino!&center=true&size=27" />
+  </a>
+</div>
 <p align="center"> <img src="https://github.com/MarinoMing/MarinoMing/blob/main/mouse_icon.jpg">
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarinoMing&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
