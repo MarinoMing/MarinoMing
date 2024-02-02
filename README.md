@@ -2,10 +2,9 @@
 ***
 
 Welcome to my page  
-I'm **Marino**  
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarinoMing&show_icons=true&theme=synthwave&title_color=ooffff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinoMing&layout=compact)](https://github.com/MarinoMing)  
-<a href="https://info.flagcounter.com/2kha"><img src="https://s11.flagcounter.com/count2/2kha/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+I'm [Marino](https://Marino.me/)  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinoMing&layout=compact&show_icons=true&theme=radical" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarinoMing&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 <!--
