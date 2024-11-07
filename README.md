@@ -6,7 +6,6 @@
     <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=%22Hello%2C%20World%22; %22Welcome to my page, I'm Marino!&center=true&size=27" />
   </a>
 </div>
-<p align="center"> <img src="https://github.com/MarinoMing/MarinoMing/blob/main/tiandou.jpg">
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MarinoMing&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
